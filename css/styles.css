@@ -3,13 +3,24 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: red;
+}
 
-
+.color-2 {
+    background: green;
+}
 /* Textures or Patterns*/
-
+.pattern-1 {
+    background: url(../img/christmas-sweater-pattern-zxgxu6of.jpg);
+}
 
 /* Imagery */
-
+.imagery-1 {
+    background-image: url(../img/music-sphere-christmas-ornament.jpg);
+    width: 400px;
+    height: 300px;
+}
 
 /* Icons */
 
